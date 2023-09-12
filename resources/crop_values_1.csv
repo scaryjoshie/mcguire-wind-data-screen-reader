@@ -1,0 +1,15 @@
+type,num,x1,y1,x2,y2
+Digit 10 top top,0,547,585,570,591
+Digit 10 top right,1,579,590,583,619
+Digit 10 top left,2,534,596,539,617
+Digit 10 middle middle,3,547,624,570,630
+Digit 10 bottom right,4,575,637,581,661
+Digit 10 bottom left,5,533,637,539,659
+Digit 10 bottom bottom,6,545,662,567,667
+Digit 1 top top,7,617,585,641,592
+Digit 1 top right,8,649,594,653,620
+Digit 1 top left,9,607,595,612,619
+Digit 1 middle middle,10,620,625,640,631
+Digit 1 bottom right,11,645,639,650,662
+Digit 1 bottom left,12,604,641,609,658
+Digit 1 bottom bottom,13,616,663,638,670
